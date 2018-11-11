@@ -295,8 +295,15 @@ header h1{
   height: 100%;
 }
 
+footer {
+  margin-top: 30px;
+}
+
 @media screen and (max-width:767px){
   .PageCover{
     height: 100%;
+  }
+  body{
+    overflow-y: scroll;
   }
 }
