@@ -82,8 +82,6 @@ class Index extends Component{
             let targetURL = "https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey=at_j7mweyIXYnGCJIdPwG9b5amjqByet&domainName=" + domainName + domainZone + "&outputFormat=JSON";
                 axios.get(targetURL)
                     .then(function (response) {
-                        // handle success
-                        console.log(response);
                         rightContext.loadStatusUpdate();
                         if(response.data.WhoisRecord.dataError === "MISSING_WHOIS_DATA"){
                             rightContext.DomenStatusUpdate();
