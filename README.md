@@ -1,9 +1,9 @@
 # React JS Domain Checker created by Elman Huseynov.
 
 
-[Demo](https://react-domainwhois.ehuseynov.com/)
+[Demo](https://huseyn0w-react-whois-service.herokuapp.com/)
 
-[My Website](https://ehuseynov.com/)
+[My Website](https://huseyn0w.github.io/)
 
 [My Linkedin Profile](https://linkedin.com/in/huseyn0w)
 
