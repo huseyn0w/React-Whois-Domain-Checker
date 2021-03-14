@@ -5,9 +5,6 @@
 
 
 # public folder
-/package-lock.json
-
-# public folder
 /.vscode/
 
 # testing
